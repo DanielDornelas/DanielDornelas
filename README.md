@@ -1,53 +1,64 @@
-<h1 align="center">Olá, eu sou Daniel Dornelas 👋</h1>
+<h1 align="center">👋 Olá, eu sou Daniel Dornelas</h1>
 
 <p align="center">
-  🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-  ⚡ Técnico em Eletrônica pela Etec Presidente Vargas <br>
-  💻 Apaixonado por tecnologia, programação e automação
+  🎓 Técnico em Eletrônica • Etec Presidente Vargas <br>
+  💻 ADS - Análise e Desenvolvimento de Sistemas <br>
+  🚀 Focado em Python e Banco de Dados
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
-
-- 🎂 Tenho 19 anos
-- 🎓 Formado em Técnico em Eletrônica pela Etec Presidente Vargas
-- 📚 Atualmente cursando Análise e Desenvolvimento de Sistemas
-- 🐍 Estudando Python e SQL
-- 🚀 Buscando evoluir cada vez mais na área de tecnologia
-
----
-
-## 🛠️ Linguagens e Tecnologias
+## 🧠 Sobre mim
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="SQL"/>
+  🎂 Tenho 19 anos <br>
+  ⚡ Formado em Técnico em Eletrônica <br>
+  📚 Estudando Desenvolvimento de Sistemas <br>
+  🐍 Aprendendo Python e SQL <br>
+  🚀 Sempre evoluindo na área de tecnologia
 </p>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 🛠️ Tecnologias que estou aprendendo
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-</div>
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Status de Atividade
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🌎 Onde me encontrar
 
 <p align="center">
-  <a href="https://github.com/DanielDornelas">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/SEUUSUARIO">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ Sempre aprendendo e buscando novos desafios ✨
+  ✨ Em constante aprendizado, sempre buscando evolução ✨
 </p>
