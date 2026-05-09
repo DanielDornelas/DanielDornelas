@@ -53,11 +53,11 @@
 
 <p align="center">
   <a href="https://github.com/DanielDornelas">
-    <img height="55" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img height="65" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/daniel-da-silva-dornelas-3b9b86345/">
-    <img height="55" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img height="65" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
