@@ -41,7 +41,7 @@
 ## 🌎 Onde me encontrar
 
 <p align="center">
-  <a href="https://github.com/SEUUSUARIO">
+  <a href="https://github.com/DanielDornelas">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
 </p>
