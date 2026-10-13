@@ -74,6 +74,8 @@ class Daniel:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="55" alt="Apache Airflow" title="Apache Airflow"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="55" alt="Power BI" title="Power BI"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" height="55" alt="Excel" title="Excel"/>
 </p>
 
 ---
