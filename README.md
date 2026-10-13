@@ -12,9 +12,9 @@
 
 ---
 
-## 🧠 Sobre mim
+<h2 align="center">🧠 Sobre mim</h2>
 
-<table>
+<table align="center">
 <tr>
 <td width="60%" valign="top">
 
@@ -46,7 +46,7 @@ class Daniel:
 
 ---
 
-## 🗄️ Banco de Dados
+<h2 align="center">🗄️ Banco de Dados</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" title="PostgreSQL"/>
@@ -56,7 +56,7 @@ class Daniel:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="MySQL" title="MySQL"/>
 </p>
 
-## 🐍 Linguagens & Web
+<h2 align="center">🐍 Linguagens & Web</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" title="Python"/>
@@ -68,7 +68,7 @@ class Daniel:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript" title="JavaScript"/>
 </p>
 
-## 📊 Dados & BI
+<h2 align="center">📊 Dados & BI</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="55" alt="Apache Airflow" title="Apache Airflow"/>
@@ -78,7 +78,7 @@ class Daniel:
 
 ---
 
-## 🔥 Status de Atividade
+<h2 align="center">🔥 Status de Atividade</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DanielDornelas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
@@ -90,7 +90,7 @@ class Daniel:
 
 ---
 
-## 🌎 Onde me encontrar
+<h2 align="center">🌎 Onde me encontrar</h2>
 
 <p align="center">
   <a href="https://github.com/DanielDornelas">
@@ -106,4 +106,3 @@ class Daniel:
 <p align="center">
   ✨ Em constante aprendizado, sempre buscando evolução ✨
 </p>
-
